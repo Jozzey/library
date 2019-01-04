@@ -1,0 +1,25 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "Demo library app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jozzey/library.git"
+  },
+  "author": "Jason Claxton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jozzey/library/issues"
+  },
+  "homepage": "https://github.com/Jozzey/library#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "debug": "^4.1.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
